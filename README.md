@@ -9,7 +9,9 @@ This local package will then be installed into the local source tree.
 ## installing
 
 Install a specific tag:
+```
 npm i --save-dev https://github.com/peterhoneder/local-dependencies-js.git#1.0.0
+```
 
 ## use cases
 
@@ -52,5 +54,7 @@ the package.json including semver versioned packages, local urls, and 3rd party 
 ## usage
 
 execute the script target:
+```
 npm run update-local-deps
+```
 
