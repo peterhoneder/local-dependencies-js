@@ -1,0 +1,27 @@
+{
+  "name": "local-dependencies",
+  "version": "1.0.0",
+  "description": "Allow local copies of remote dependencies",
+  "main": "./src/index.js",
+  "bin": {
+    "local-dependencies": "./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterhoneder/local-dependencies-js.git"
+  },
+  "scripts": {},
+  "author": "Peter Honeder",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-loader": "^2.2.1",
+    "eslint-plugin-jest": "^22.15.1",
+    "eslint-plugin-prettier": "^3.1.0",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "semver": "^6.3.0"
+  }
+}
