@@ -1,14 +1,14 @@
 {
-  "name": "local-dependencies",
+  "name": "offline-dependencies",
   "version": "1.0.0",
-  "description": "Allow local copies of remote dependencies",
+  "description": "Allow local/offline copies of remote dependencies",
   "main": "./src/index.js",
   "bin": {
     "local-dependencies": "./src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterhoneder/local-dependencies-js.git"
+    "url": "https://github.com/peterhoneder/offline-dependencies-js.git"
   },
   "scripts": {},
   "author": "Peter Honeder",

@@ -10,7 +10,7 @@ This local package will then be installed into the local source tree.
 
 Install a specific tag:
 ```
-npm i --save-dev https://github.com/peterhoneder/local-dependencies-js.git#1.0.0
+npm i --save-dev https://github.com/peterhoneder/offline-dependencies-js.git#1.0.0
 ```
 
 ## use cases
