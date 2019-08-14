@@ -8,9 +8,8 @@ This local package will then be installed into the local source tree.
 
 ## installing
 
-Install a specific tag:
 ```
-npm i --save-dev https://github.com/peterhoneder/offline-dependencies-js.git#1.0.0
+npm i --save-dev offline-dependencies-js
 ```
 
 ## use cases
