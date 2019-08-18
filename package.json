@@ -1,6 +1,6 @@
 {
   "name": "offline-dependencies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allow local/offline copies of remote dependencies",
   "main": "./src/index.js",
   "bin": {
